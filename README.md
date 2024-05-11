@@ -1,5 +1,5 @@
 # DESCRIPTION
-**Reverse engineered how CurseForge handles file downloads**, usually you have to download the 500 Mb enormous app just to install a mod pack, that has.json and.html. Well now, time has changed, no more storage stealing from CurseForge, and time wasting from CurseForge, you can now **insta(not insta, but FASTLY) download the mods** inside the modpack and add them to your Minecraft.
+**Reverse engineered how CurseForge handles file downloads**, usually you have to download the 500 Mb enormous app just to install a mod pack, that has.json and.html. Well now, time has changed, no more storage stealing from CurseForge, and no more time wasting from CurseForge, you can now **insta(not insta, but FASTLY) download the mods** inside the modpack and add them to your Minecraft.
 
 # HOW TO USE
 1. Type in `python3 curseforge.py` and hit enter.
