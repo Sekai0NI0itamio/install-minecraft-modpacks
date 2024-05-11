@@ -1,6 +1,6 @@
 --DESCRIPTION--
-reverse engineered how curseforge handel file downloads, usually you have to download the 500 Mb enormous app just to install an mod pack, that has .json and .html. 
-well now, time has changed, no more storage stealing from curseforge, and time wasting from curseforge, you can now insta(not insta, but FASTLY) download the mods
+reverse engineered how curseforge handel file downloads, usually you have to download the 500 Mb enormous app just to install an mod pack, that has .json and .html. \n
+well now, time has changed, no more storage stealing from curseforge, and time wasting from curseforge, you can now insta(not insta, but FASTLY) download the mods\n
 inside the modpack and add them to your minecraft. 
 
 --HOW TO USE--
